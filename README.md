@@ -27,5 +27,3 @@ Retail sales data in CSV format containing monthly sales information.
 ### 📌 Conclusion
 This analysis helps stakeholders understand sales performance and take data-driven actions.
 
-### 📷 Dashboard Preview
-![Dashboard](dashboard_screenshot.png)
